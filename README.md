@@ -1,2 +1,2 @@
 # lsshuai
-This is a practise repository.
+This is a new branch named readme-edit,which is fifferent form master.
